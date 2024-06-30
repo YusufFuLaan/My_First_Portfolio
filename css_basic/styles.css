@@ -3,9 +3,7 @@ body {
   flex-direction: column;
 }
 header{
-    background-color: black;
     text-align: center;
-    color: white;
 }
 main {
   display: flex;
